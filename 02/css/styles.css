@@ -1,0 +1,50 @@
+.bold{
+    font-weight: 600;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.BGColorBlue{
+    background-color: blue;
+}
+
+.BGColorDarkCyan{
+    background-color: darkcyan;
+}
+
+.BGColorYellow{
+    background-color: yellow;
+}
+
+.FGColorRed{
+    color: red;
+}
+
+.ULWavyRed{
+    text-decoration: red wavy underline;
+}
+
+.ULDottedChartreuse {
+    text-decoration: 1px underline dotted chartreuse;
+}
+
+.LTWavyDarkolivegreen{
+    text-decoration:darkolivegreen wavy line-through;
+}
+
+body.dotted {
+    border-style: dotted;
+    border-width: 5px;
+    border-color: black;
+
+}
+
+.font {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .hello{
+    float:left;
+  }
