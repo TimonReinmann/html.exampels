@@ -27,7 +27,7 @@
 }
 
 .ULDottedChartreuse {
-    text-decoration: 1px underline dotted chartreuse;
+    text-decoration:3px underline dotted chartreuse;
 }
 
 .LTWavyDarkolivegreen{
@@ -45,6 +45,10 @@ body.dotted {
     font-family: Arial, Helvetica, sans-serif;
   }
 
-  .hello{
-    float:left;
-  }
+  .unten {
+    display: flex;
+    align-items: center;
+}
+.weiterUnten p {
+    margin-top: -20px;
+}
