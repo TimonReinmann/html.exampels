@@ -1,0 +1,12 @@
+.bold{
+    font-weight: 600;
+}
+.italic{
+    font-style: italic;
+}
+.lineMiddle{
+    text-decoration: line-through;
+}
+.underline{
+    text-decoration: underline;
+}
