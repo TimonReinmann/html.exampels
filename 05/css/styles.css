@@ -1,0 +1,54 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+}
+
+.topnav{
+    background-color: rgb(109, 47, 147);
+    display: flex;
+    justify-content: center;
+}
+
+.topnav a{
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 20px;
+    margin-inline: 10px;
+    text-decoration: none;
+}
+
+.ov {
+    background-color: grey;
+    width: 80%;
+    left: 10%;
+    position: relative;
+    padding-inline: 5px;
+    padding-bottom: 40px;
+    padding-top: 15px;
+}
+
+.title {
+    text-align: center;
+}
+
+.imgOtter1 {
+    width: 450px;
+    float: right;
+}
+
+.imgOtter {
+    width: 200px;
+    margin-left: 350px;
+    margin-top: 20px;
+}
+
+.imgCapybara {
+    width: 500px;
+    float: left;
+}
+
+.imgCat {
+    width: 450px;
+    float: right;
+}
