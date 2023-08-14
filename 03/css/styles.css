@@ -1,18 +1,68 @@
-.borderDotted{
+.font {
+    text-align: center;
+  }
+
+.borderDashed{
+   
     border-width: 5px;
-    border-style: dotted;
+    border-style:dashed;
     border-color: black;
+    background-color: green;
+    display: inline-block;
+    text-align: right;
+    padding: 6px 8px 10px 5px;
+    vertical-align: bottom;
+    margin-left: 400px;
 }
 
 .borderSolied{
     border-width: 10px;   
     border-style: solid;
-    border-color: darkmagenta;
-    background-color: green;
+    border-color: rgb(95, 0, 139);
+    background-color: rgb(154, 117, 226);
+    padding: 15px 30px 10px 10px;
+    display: inline-block;
+    vertical-align: bottom;
+    text-align: left;
+}
+
+.borderInfo{
+    width: 170px;
+    height: 20px;
+    border: 3px solid blue;
+    background-color: white;
+    color: blue;
+    font-weight: 600;
+    margin: 35px 0 5px 20px;
 }
 
 .borderPoints{
     border: width 1px;
     border-style: dotted;
     border-color: black;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    width: 70%;
+    margin-left: 14.5%;
 }
+
+.titelHippopotamus{
+    color: red;
+}
+
+.imgSheep{
+    height: 215px;
+}
+
+.imgVulture{
+    height: 180px;
+}
+
+.imghippopotamus{
+    height: 275px;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
