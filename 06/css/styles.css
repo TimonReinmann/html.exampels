@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+}
+
+.oneimg{
+    height: 350px;
+    max-width: fit-content;
+    border: 2px solid black;
+    padding: 5px;
+    margin: 10px;
+
+}
+
+h1 {
+    text-align: center;
+}
